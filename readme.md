@@ -3,6 +3,7 @@
   + mongodb
   + chromeDriver
 
+## 步骤：
 1. 爬取商品数据
   + python crawl_taobao.py -k 关键词 -d 数据库名
 2. 爬取评论数据
